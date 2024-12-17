@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 h1{
    text-align: center;
 }
@@ -47,4 +48,55 @@ body{
     background: #000;
     color: white;
     
+=======
+h1{
+   text-align: center;
+}
+form{
+   text-align: center;
+    
+}
+#height{
+    margin: 20px;
+}
+#weight{
+    margin: 20px;
+}
+label{
+    font-weight: bolder;
+}
+input{
+    border: 2px solid white;
+}
+button{
+    padding: 10px 20px;
+    border: 2px solid white;
+    background:aqua;
+    font-weight: bolder;
+    border-radius: 8%;
+}
+#Weight-guide{
+    border: 2px solid white;
+    margin-top:10px;
+    display:inline-block;
+    padding: 20px 40px;    
+}
+
+#result{
+    flex-direction: column;
+    margin: 20px;
+    /* border: 2px solid white; */
+    padding: 10px 30px;
+    border-radius: 8%;
+    /* background-color: chartreuse; */
+    font-weight: bolder;
+    color: white;
+   
+    
+}
+body{
+    background: #000;
+    color: white;
+    
+>>>>>>> 2f3b1001d56f2be936d82251943bfa2b4c0c65bd
 }
